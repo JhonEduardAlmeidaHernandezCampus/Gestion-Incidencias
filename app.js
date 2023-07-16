@@ -8,6 +8,7 @@ import storageReport from './routers/report.js';
 import categories_incidences from './routers/categories_incidences.js';
 import storageLevelIncidences from './routers/level.incidences.js';
 import storageAreas from './routers/area.js';
+import storageSalones from './routers/salones.js';
 
 
 dotenv.config();
@@ -21,6 +22,7 @@ appExpress.use("/report", storageReport)
 appExpress.use("/categories_incidences", categories_incidences)
 appExpress.use("/level_incidences", storageLevelIncidences)
 appExpress.use("/area", storageAreas)
+appExpress.use("/salon", storageSalones)
 
 
 let config = JSON.parse(process.env.MY_CONFIG)
