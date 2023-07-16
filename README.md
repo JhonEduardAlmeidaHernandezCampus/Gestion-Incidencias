@@ -4,6 +4,10 @@ Este repositorio contiene un sistema de gestión de incidencias, El sistema perm
 
 
 
+![relaciones](C:\Users\jhonh\Desktop\Gestion Incidencias\db\relacionesdb.jfif)
+
+
+
 ## Requisitos previos
 
 - Node.js instalado en su máquina.
