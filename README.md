@@ -4,7 +4,7 @@ Este repositorio contiene un sistema de gestión de incidencias, El sistema perm
 
 
 
-![relaciones](C:\Users\jhonh\Desktop\Gestion Incidencias\db\relacionesdb.jfif)
+![Gestion-Incidencias/db/relacionesdb.jfif at main · JhonEduardAlmeidaHernandezCampus/Gestion-Incidencias (github.com)](https://github.com/JhonEduardAlmeidaHernandezCampus/Gestion-Incidencias/blob/main/db/relacionesdb.jfif)
 
 
 
