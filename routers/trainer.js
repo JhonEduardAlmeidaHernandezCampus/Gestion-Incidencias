@@ -41,13 +41,13 @@ storageTrainer.get("/", (req, res) => {
 
 /*
     {
-        "name_trainer": "asd Torres",
-        "email_personal_trainer": "asd@gmail.com",
-        "email_corporativo_trainer": "asd@gmail.com",
-        "mobile_phone": "+57 32000021321",
-        "home_phone": "6423132",
-        "business_phone": "+57 32000021321",
-        "business_mobile_phone": "+57 32000021321"
+        "Name": "asd ",
+        "Email_Personal": "asd@gmail.com",
+        "Email_Corporativo": "asd@gmail.com",
+        "Mobile_Phone": "+57 32000021321",
+        "Home_Phone": "6423132",
+        "Business_Phone": "+57 32000021321",
+        "Business_Mobile_Phone": "+57 32000021321"
     }
 */
 /* http://127.10.10.20:5500/trainer/ */
